@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/restFull-api/static/css/main.4fa8c82f.chunk.css",
+    "main.js": "/restFull-api/static/js/main.c59a368b.chunk.js",
+    "main.js.map": "/restFull-api/static/js/main.c59a368b.chunk.js.map",
+    "runtime-main.js": "/restFull-api/static/js/runtime-main.22cf0a25.js",
+    "runtime-main.js.map": "/restFull-api/static/js/runtime-main.22cf0a25.js.map",
+    "static/js/2.fa6d69d8.chunk.js": "/restFull-api/static/js/2.fa6d69d8.chunk.js",
+    "static/js/2.fa6d69d8.chunk.js.map": "/restFull-api/static/js/2.fa6d69d8.chunk.js.map",
+    "index.html": "/restFull-api/index.html",
+    "precache-manifest.546f9ae1173e458a0fb951e0225b817a.js": "/restFull-api/precache-manifest.546f9ae1173e458a0fb951e0225b817a.js",
+    "service-worker.js": "/restFull-api/service-worker.js",
+    "static/css/main.4fa8c82f.chunk.css.map": "/restFull-api/static/css/main.4fa8c82f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22cf0a25.js",
+    "static/js/2.fa6d69d8.chunk.js",
+    "static/css/main.4fa8c82f.chunk.css",
+    "static/js/main.c59a368b.chunk.js"
+  ]
+}
